@@ -8,7 +8,7 @@ Hi, I'm Muhammad Ilyas, a Full Stack Web Developer, Bug Bounty Hunter, and Conte
 - Found vulnerabilities in platforms like **Omise, DPD Group UK, Mux**  
 - Experienced in detecting XSS, CSRF, SSRF, Cache Poisoning, DNS Rebinding, and Account Takeovers  
 
-### 🛡️ Security Highlights (from HackerOne)  
+### 🛡️ Security Highlights (from [HackerOne](https://hackerone.com/muhammadilyas/hacktivity?type=user))  
 - **Omise:** Subdomain Takeover via Dangling DNS  
 - **DPD Group UK:** Complete Account Takeover via Autofill Exploit  
 - **Mux:** API Logs Leak (Internal IPs Exposure)  
