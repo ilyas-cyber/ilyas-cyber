@@ -26,7 +26,7 @@ Hi, I'm Muhammad Ilyas, a Full Stack Web Developer, Bug Bounty Hunter, and Conte
 
 #### 💻 Full Stack & Web Development  
 - **[My-ChatApp](https://github.com/ilyas-cyber/My-ChatApp):** Fully featured chat app with video/audio calling  
-- **[project_website](https://github.com/ilyas-cyber/project_website):** Client project with HTML/CSS design  
+- **[project_website](https://github.com/ilyas-cyber/newProject):** Client project with HTML/CSS design  
 - **[Ilyas-Chat-App](https://github.com/ilyas-cyber/Ilyas-Chat-App):** A WhatsApp-like chat application  
 
 #### 🧠 Machine Learning & Automation  
