@@ -18,16 +18,13 @@ Hi, I'm Muhammad Ilyas, a Full Stack Web Developer, Bug Bounty Hunter, and Conte
 - **Omise:** Lack of Rate Limiting in Login Forms  
 
 ---
-### 📂 Featured Projects  
-#### 🔥 Bug Bounty & Security Research  
-- **[Teaching-a-beginner-to-Bug-Bounty-hunting-tutorial](https://github.com/ilyas-cyber/Teaching-a-beginner-to-Bug-Bounty-hunting-tutorial):** A YouTube series teaching bug bounty hunting with real examples  
+### 📂 Featured Projects   
 - **[Bug-Bounty-Road-Map](https://github.com/ilyas-cyber/Bug-Bounty-Road-Map):** Resources for different vulnerabilities and exploitation case studies  
 - **Automation_Setup (Private):** My private toolkit for automating security checks during bug hunting  
 
 #### 💻 Full Stack & Web Development  
-- **[My-ChatApp](https://github.com/ilyas-cyber/My-ChatApp):** Fully featured chat app with video/audio calling  
 - **[project_website](https://github.com/ilyas-cyber/newProject):** Client project with HTML/CSS design  
-- **[Ilyas-Chat-App](https://github.com/ilyas-cyber/Ilyas-Chat-App):** A WhatsApp-like chat application  
+- **[Ilyas-Chat-App](https://github.com/ilyas-cyber/Ilyas-Chat-App):** A WhatsApp-like chat application  using WEBRTC
 
 #### 🧠 Machine Learning & Automation  
 - **[Project_Machine_Learning](https://github.com/ilyas-cyber/Project_Machine_Learning):** My custom ML model experiments  
